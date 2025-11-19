@@ -1,0 +1,74 @@
+[
+  {
+    "id": 201,
+    "text": "જીવન એક સફર છે, ઘંટિયાળ નથી.",
+    "authorName": "Unknown",
+    "category": "life",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🛤️",
+    "isFavorite": false
+  },
+  {
+    "id": 202,
+    "text": "મિત્ર વિના જીવન અધૂરું છે.",
+    "authorName": "Unknown",
+    "category": "friendship",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🤝",
+    "isFavorite": false
+  },
+  {
+    "id": 203,
+    "text": "પ્રેમ એ બિનશરતી ભાવ છે.",
+    "authorName": "Unknown",
+    "category": "love",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "❤️",
+    "isFavorite": false
+  },
+  {
+    "id": 204,
+    "text": "હمت રાખો, સફળતા જલ્દી આવશે.",
+    "authorName": "Unknown",
+    "category": "motivation",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "💪",
+    "isFavorite": false
+  },
+  {
+    "id": 205,
+    "text": "એકલો હોવો ક્યારેય નાના રહેવાનો સંકેત નથી.",
+    "authorName": "Unknown",
+    "category": "alone",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🌙",
+    "isFavorite": false
+  },
+  {
+    "id": 206,
+    "text": "જિંદગીને પ્યારા પળોથી ભરો.",
+    "authorName": "Unknown",
+    "category": "romantic",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🌹",
+    "isFavorite": false
+  }
+]

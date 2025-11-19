@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "text": "The only limit to our realization of tomorrow is our doubts of today.",
+    "authorName": "Franklin D. Roosevelt",
+    "category": "motivation",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "💪",
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "text": "In the middle of every difficulty lies opportunity.",
+    "authorName": "Albert Einstein",
+    "category": "motivation",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "✨",
+    "isFavorite": false
+  },
+  {
+    "id": 101,
+    "text": "जहाँ चाह वहाँ राह।",
+    "authorName": "Unknown",
+    "category": "motivation",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🔥",
+    "isFavorite": false
+  },
+  {
+    "id": 105,
+    "text": "हार मत मानो, आज की मेहनत कल की जीत बनती है।",
+    "authorName": "Unknown",
+    "category": "motivation",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🏆",
+    "isFavorite": false
+  },
+  {
+    "id": 204,
+    "text": "હمت રાખો, સફળતા જલ્દી આવશે.",
+    "authorName": "Unknown",
+    "category": "motivation",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "💪",
+    "isFavorite": false
+  }
+]

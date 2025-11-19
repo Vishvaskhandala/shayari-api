@@ -1,0 +1,38 @@
+[
+  {
+    "id": 2,
+    "text": "Love is not only something you feel, it is something you do.",
+    "authorName": "David Wilkerson",
+    "category": "love",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "❤️",
+    "isFavorite": false
+  },
+  {
+    "id": 102,
+    "text": "दिल के रिश्ते शब्दों से नहीं निभते, सच्चाई से निभते हैं।",
+    "authorName": "Unknown",
+    "category": "love",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "💕",
+    "isFavorite": false
+  },
+  {
+    "id": 203,
+    "text": "પ્રેમ એ બિનશરતી ભાવ છે.",
+    "authorName": "Unknown",
+    "category": "love",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "❤️",
+    "isFavorite": false
+  }
+]

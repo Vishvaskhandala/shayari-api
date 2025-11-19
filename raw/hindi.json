@@ -1,0 +1,74 @@
+[
+  {
+    "id": 101,
+    "text": "जहाँ चाह वहाँ राह।",
+    "authorName": "Unknown",
+    "category": "motivation",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🔥",
+    "isFavorite": false
+  },
+  {
+    "id": 102,
+    "text": "दिल के रिश्ते शब्दों से नहीं निभते, सच्चाई से निभते हैं।",
+    "authorName": "Unknown",
+    "category": "love",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "💕",
+    "isFavorite": false
+  },
+  {
+    "id": 103,
+    "text": "मित्रता जीवन की सबसे सुंदर दौलत है।",
+    "authorName": "Unknown",
+    "category": "friendship",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🤗",
+    "isFavorite": false
+  },
+  {
+    "id": 104,
+    "text": "अकेला वह नहीं जो तन्हा है, अकेला वह है जिसे समझ न पाए कोई।",
+    "authorName": "Unknown",
+    "category": "alone",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🌙",
+    "isFavorite": false
+  },
+  {
+    "id": 105,
+    "text": "हार मत मानो, आज की मेहनत कल की जीत बनती है।",
+    "authorName": "Unknown",
+    "category": "motivation",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🏆",
+    "isFavorite": false
+  },
+  {
+    "id": 106,
+    "text": "उम्मीदें वही जो रोशनी बनकर अँधेरे में दिखाई दें।",
+    "authorName": "Unknown",
+    "category": "life",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🌟",
+    "isFavorite": false
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3,
+    "text": "Friendship is the only cement that will ever hold the world together.",
+    "authorName": "Woodrow T. Wilson",
+    "category": "friendship",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🤝",
+    "isFavorite": false
+  },
+  {
+    "id": 103,
+    "text": "मित्रता जीवन की सबसे सुंदर दौलत है।",
+    "authorName": "Unknown",
+    "category": "friendship",
+    "language": "hi",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🤗",
+    "isFavorite": false
+  },
+  {
+    "id": 202,
+    "text": "મિત્ર વિના જીવન અધૂરું છે.",
+    "authorName": "Unknown",
+    "category": "friendship",
+    "language": "gu",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🤝",
+    "isFavorite": false
+  }
+]

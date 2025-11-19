@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "text": "The only limit to our realization of tomorrow is our doubts of today.",
+    "authorName": "Franklin D. Roosevelt",
+    "category": "motivation",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "💪",
+    "isFavorite": false
+  },
+  {
+    "id": 2,
+    "text": "Love is not only something you feel, it is something you do.",
+    "authorName": "David Wilkerson",
+    "category": "love",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "❤️",
+    "isFavorite": false
+  },
+  {
+    "id": 3,
+    "text": "Friendship is the only cement that will ever hold the world together.",
+    "authorName": "Woodrow T. Wilson",
+    "category": "friendship",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🤝",
+    "isFavorite": false
+  },
+  {
+    "id": 4,
+    "text": "In the middle of every difficulty lies opportunity.",
+    "authorName": "Albert Einstein",
+    "category": "motivation",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "✨",
+    "isFavorite": false
+  },
+  {
+    "id": 5,
+    "text": "Don’t cry because it’s over, smile because it happened.",
+    "authorName": "Dr. Seuss",
+    "category": "sad",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "🙂",
+    "isFavorite": false
+  },
+  {
+    "id": 6,
+    "text": "Attitude is a little thing that makes a big difference.",
+    "authorName": "Winston Churchill",
+    "category": "attitude",
+    "language": "en",
+    "source": null,
+    "likes": 0,
+    "dateAdded": 1763548923642,
+    "emoji": "😎",
+    "isFavorite": false
+  }
+]
